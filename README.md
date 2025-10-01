@@ -6,7 +6,7 @@ O poema é de **Milton Duarte** e foi estilizado como parte do curso de HTML5 e 
 ---
 
 > Acesse o projeto online (GitHub Pages, Netlify ou outro serviço):  
-> [🔗 Clique aqui para ver o site em funcionamento](#)
+> [🔗 Clique aqui para ver o site em funcionamento](https://devvitorfreitas13.github.io/projeto-cordel/)
 
 ---
 
